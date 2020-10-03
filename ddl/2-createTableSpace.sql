@@ -4,6 +4,7 @@
  */
 CREATE TABLESPACE uan_rmdbs_workshoplive_ts
   OWNER postgres
-  LOCATION ?;
+  LOCATION 'C:\opt\table_space\uan_rmdbs_workshoplive_ts';
+
 ALTER TABLESPACE uan_rmdbs_workshoplive_ts
   OWNER TO universitydbuserlive;

@@ -1,1 +1,1 @@
-CREATE USER universitydbuserlive with login ENCRYPTED PASSWORD ?;
+CREATE USER universitydbuserlive with login ENCRYPTED PASSWORD 'postgres';
